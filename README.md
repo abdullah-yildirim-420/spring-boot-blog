@@ -8,6 +8,10 @@ This project is a **blogging platform** where users can:
 - **React (like/dislike) to posts and comments** *(toggle system: clicking again removes the reaction)*  
 - **Follow/unfollow other users** *(toggle system: clicking again unfollows the user)*  
 
+🚀 **This project is still in development!** 🚀  
+I am actively working on adding more backend features, implementing missing methods, and optimizing performance.  
+Once the backend is fully completed, I plan to build a **React frontend** for the application.
+
 The project is built using:  
 - **Java 17** & **Spring Boot 3.3.2**  
 - **Spring Data JPA** & **Hibernate** (Database interaction)  
